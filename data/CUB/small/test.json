@@ -1,18 +1,18 @@
 {
     "class_names": [
-        "008.Rhinoceros_Auklet",
-        "009.Brewer_Blackbird",
-        "015.Lazuli_Bunting",
-        "020.Yellow_breasted_Chat",
-        "028.Brown_Creeper",
-        "030.Fish_Crow"
+        "001.Black_footed_Albatross",
+        "002.Laysan_Albatross",
+        "003.Sooty_Albatross",
+        "004.Groove_billed_Ani",
+        "005.Crested_Auklet",
+        "006.Least_Auklet"
     ],
     "class_roots": [
-        "./data/CUB/images/008.Rhinoceros_Auklet",
-        "./data/CUB/images/009.Brewer_Blackbird",
-        "./data/CUB/images/015.Lazuli_Bunting",
-        "./data/CUB/images/020.Yellow_breasted_Chat",
-        "./data/CUB/images/028.Brown_Creeper",
-        "./data/CUB/images/030.Fish_Crow"
+        "./data/CUB/images/001.Black_footed_Albatross",
+        "./data/CUB/images/002.Laysan_Albatross",
+        "./data/CUB/images/003.Sooty_Albatross",
+        "./data/CUB/images/004.Groove_billed_Ani",
+        "./data/CUB/images/005.Crested_Auklet",
+        "./data/CUB/images/006.Least_Auklet"
     ]
 }
